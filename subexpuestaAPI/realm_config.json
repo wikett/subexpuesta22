@@ -1,0 +1,8 @@
+{
+  "app_id": "subexpuestaapi-orucu",
+  "config_version": 20210101,
+  "name": "subexpuestaAPI",
+  "location": "DE-FF",
+  "provider_region": "gcp-europe-west1",
+  "deployment_model": "LOCAL"
+}
